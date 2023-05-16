@@ -13,11 +13,7 @@ namespace SpaceProgramHitachi
         static void Main(string[] args)
         {
             Console.InputEncoding = Encoding.Unicode;
-            //inputs from the console
-            //C:\Users\stili\OneDrive\Работен плот\CSVfile.csv
-            //bcfhssgleuofkxco
-            //stiliyantopalov@gmail.com
-            //stiliyan.topalov02@gmail.com
+            
 
             //Here we have the inputs and some while loops if the input is not appropriate
             Console.WriteLine("Choose your option:");
